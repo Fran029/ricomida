@@ -1,0 +1,70 @@
+.nav{
+    background-color: #373A3C!important;
+    padding: 10px!important;
+    text-align: left!important;
+    
+}
+nav a{
+   color: var(--white) ;
+}
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h1 {
+    font-family:"Lobster" ;
+    color: white
+  }
+
+div p{ 
+
+    font-family:"Cabin", "bold";
+    font-weight: 700;
+    font-size: xx-large ;
+    text-align: left;
+    padding: 30px;
+
+    
+
+  }
+ div img{
+    width: 100%;
+    padding: 20px 15px;
+    margin: 20px 5px;
+    
+ }
+ h5{
+    text-align:left
+ }
+section h6{
+
+ text-align: left;
+ font-weight:500;
+ font-family: "Cabin";
+ color: #373A3C!important;
+
+}
+
+.card-text{
+
+    font-size: 15px;
+    color: #373A3C!important;
+    font-family: "Cabin";
+}
+
+.button{
+    text-align: center;
+}
+
+#suscribete{ background-color: #DC3545!important;
+
+
+}
+
+footer{
+     text-align: center;
+    background-color:#373A3C;
+    padding: 40px 60px;
+}
