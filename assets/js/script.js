@@ -7,8 +7,8 @@ $( "#enviarCorreo" ).on( "click", function() {
     
 } );
 
-$( "h4" ).on( "click", function() {
-    $(this).css("color", "brown"); 
+$( "h4" ).on( "dblclick", function() {
+    $(this).css("color", "red"); 
     
 }) ;
 
