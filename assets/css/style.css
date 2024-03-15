@@ -6,6 +6,10 @@
 }
 nav a{
    color: var(--white) ;
+
+}
+#nav-link{
+  color: white!important;
 }
 .lobster-regular {
     font-family: "Lobster", sans-serif;
@@ -38,10 +42,11 @@ div p{
  h5{
     text-align:left
  }
-section h6{
+section p{
 
  text-align: left;
- font-weight:500;
+ font-weight:5;
+ font-size:medium;
  font-family: "Cabin";
  color: #373A3C!important;
 
@@ -58,13 +63,16 @@ section h6{
     text-align: center;
 }
 
-#suscribete{ background-color: #DC3545!important;
-
+#suscribete{    background-color: #DC3545!important;
+                padding: 150px;
+                color: white;
+             
 
 }
+
 
 footer{
      text-align: center;
     background-color:#373A3C;
-    padding: 40px 60px;
+    padding: 20px 20px;
 }

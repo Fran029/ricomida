@@ -8,9 +8,11 @@ $( "#enviarCorreo" ).on( "click", function() {
 } );
 
 $( "h4" ).on( "click", function() {
-    alert("color cambia")
+    $(this).css("color", "brown"); 
+    
 }) ;
 
-function prueba( ){
+$('.card-title').click(function(){
+    $(this).siblings(".card-text").toggle();
+    });
 
-}
